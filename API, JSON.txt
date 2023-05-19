@@ -1,0 +1,2 @@
+API stands for Application Programming Interface.
+JSON stands for Javascript Object Notation
